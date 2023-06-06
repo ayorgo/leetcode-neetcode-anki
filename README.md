@@ -20,7 +20,9 @@ which is only a subset of what <sup>[[1]](#1)</sup> scrapes.
 ![Deck structure](img/deck-structure.png)
 
 ## Scheduling
-![Scheduling](img/scheduling.png)
+![Scheduling daily](img/scheduling-daily.png)
+![Scheduling new](img/scheduling-new.png)
+![Scheduling lapses](img/scheduling-lapses.png)
 
 ## [NeetCode roadmap](https://neetcode.io/roadmap)
 ![NeetCode roadmap](img/neetcode-roadmap.png)
