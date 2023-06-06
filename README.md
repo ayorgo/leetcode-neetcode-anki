@@ -2,13 +2,17 @@
 [Anki](https://apps.ankiweb.net/) flashcards for the whole set of [LeetCode](https://leetcode.com/) problems + [NeetCode150](https://neetcode.io/) as a subdeck. NeetCode flashcards come in the original order. Scheduling information is also included.
 
 ## Card structure
+Front                            |Hint                           |Back
+:-------------------------------:|:-----------------------------:|:-----------------------------:
+![Card front](img/card-front.png)|![Card hint](img/card-hint.png)|![Card back](img/card-back.png)
+
 Each card contains the following fields:
-* Slug
-* Id
-* Title
-* Topic
-* Difficulty
-* Paid
+* title
+* id
+* slug
+* difficulty
+* topics
+* paid
 
 which is only a subset of what <sup>[[1]](#1)</sup> scrapes.
 
